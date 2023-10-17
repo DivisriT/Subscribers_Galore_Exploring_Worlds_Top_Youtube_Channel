@@ -12,6 +12,6 @@ Story 1 Link https://public.tableau.com/views/Tableausujithasagadevan/Story1?:la
 
 Empathy Map Link https://drive.google.com/file/d/10Rg5ZsN_NRALhduzQW8pMepJV81SMey-/view?usp=drivesdk
 
-Brainstorming Map Link  
+Brainstorming Map Link https://drive.google.com/file/d/10dNuQDhRxpgZkTTXXOpsPtMPQ-AOI-Ls/view?usp=drivesdk
 
 Video Demonstrating Link https://drive.google.com/file/d/10R3eyTGvzQWqj-eO6WRPWQ1G2eA1YCTu/view?usp=drivesdk
